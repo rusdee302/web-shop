@@ -1,0 +1,254 @@
+.dropdown1 {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content1 {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown1:hover .dropdown-content1 {
+  display: block;
+}
+
+
+@media screen and (max-width: 1920px) {
+  .navbar-s {
+    display: none;
+    
+    
+  }
+
+    .sl1 {
+    display: none;
+    
+    
+  }
+   .header-search form {
+/* grid-area: left;*/
+  width: 270%;
+
+
+  }
+
+    .header-btns {
+ 
+  display: ;
+ width: 30%;
+
+justify-content: right;
+    
+  }
+
+  .aab {
+  	display: none;
+  }
+
+}
+
+
+@media screen and (max-width: 768px) {
+  .nav-menu {
+  display: none;
+    
+  }
+
+
+
+
+  .aaa {
+  display: ;
+  float: left;
+    
+  }
+
+  .header-logo {
+  display: none;
+  width: 50px;
+
+    
+  }
+
+  .navbar1 br {
+  display: none;
+    
+  }
+
+  .header-search form {
+  grid-area: center;
+/*  width: 80%;*/
+    
+  }
+
+  .header-btns {
+ 
+  display: none;
+ /*width: 30%;*/
+    
+  }
+
+   .header-search {
+  float: left;
+   width:120%;
+   height: 55px
+   
+    
+  }
+
+    .aab {
+ 
+float: left;
+display: inline;
+
+    
+  }
+
+
+
+   .header-search form {
+/* grid-area: left;*/
+float: left;
+  width: 200px;
+
+
+
+  }
+
+     .header-search input {
+/* grid-area: left;*/
+width: 200px;
+height: 28px;
+
+
+  }
+
+       .search-btn {
+/* grid-area: left;*/
+display: none;
+
+
+  }
+
+  .aaa {
+  width: 30%;
+grid-area: left;
+display: none;
+    
+  }
+
+  .text-uppercase {
+display: none;
+    
+  }
+
+
+
+}
+
+
+@media screen and (max-width: 320px) {
+  .logo-n {
+    display: none;
+  }
+  .nav-menu {
+  display: none;
+    
+  }
+
+
+
+
+  .aaa {
+  display: ;
+  float: left;
+    
+  }
+
+  .header-logo {
+  display: none;
+  width: 50px;
+
+    
+  }
+
+  .navbar1 br {
+  display: none;
+    
+  }
+
+  .header-search form {
+  grid-area: center;
+/*  width: 80%;*/
+    
+  }
+
+  .header-btns {
+ 
+  display: none;
+ /*width: 30%;*/
+    
+  }
+
+   .header-search {
+  float: left;
+   width:120%;
+   height: 55px
+   
+    
+  }
+
+    .aab {
+ 
+float: left;
+display: inline;
+
+    
+  }
+
+
+
+   .header-search form {
+/* grid-area: left;*/
+float: left;
+  width: 200px;
+
+
+
+  }
+
+     .header-search input {
+/* grid-area: left;*/
+width: 200px;
+height: 28px;
+
+
+  }
+
+       .search-btn {
+/* grid-area: left;*/
+display: none;
+
+
+  }
+
+  .aaa {
+  width: 30%;
+grid-area: left;
+display: none;
+    
+  }
+
+  .text-uppercase {
+display: none;
+    
+  }
+
+
+
+}
